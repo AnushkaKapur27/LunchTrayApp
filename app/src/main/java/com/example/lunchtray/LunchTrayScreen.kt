@@ -61,7 +61,7 @@ enum class LunchTrayScreen (@StringRes val title:Int){
     
 }
 
-// TODO: AppBar
+
 @Composable
 fun LunchTrayAppBar(
     currentScreen: LunchTrayScreen,
@@ -92,7 +92,6 @@ fun LunchTrayAppBar(
 fun LunchTrayApp(
     navController: NavHostController = rememberNavController()
 ) {
-    // TODO: Create Controller and initialization
 
     // Create ViewModel
     val viewModel: OrderViewModel = viewModel()
@@ -102,7 +101,6 @@ fun LunchTrayApp(
     )
     Scaffold(
         topBar = {
-            // TODO: AppBar
             LunchTrayAppBar(
                 currentScreen = currentScreen,
                 canNavigateBack = navController.previousBackStackEntry != null,
@@ -112,7 +110,6 @@ fun LunchTrayApp(
     ) { innerPadding ->
         val uiState by viewModel.uiState.collectAsState()
 
-        // TODO: Navigation host
         NavHost(
             navController = navController,
             startDestination = LunchTrayScreen.Start.name,
