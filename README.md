@@ -38,14 +38,21 @@ Each selection is made on a dedicated screen, and the app guides the user throug
 
 ## 📸 Screenshots
 
-| Start Order Screen | Entrée Screen | Side Dish Screen | Accompaniment Screen | Summary |
-|:------------------:|:-------------:|:----------------:|:---------------------:|:-------:|
-|![Start](![WhatsApp Image 2025-06-18 at 17 26 51_5c12094e](https://github.com/user-attachments/assets/d0843eb5-b7c2-4a36-a797-de354069dcd0)
-)| ![Entree](![WhatsApp Image 2025-06-18 at 17 26 51_96199981](https://github.com/user-attachments/assets/a37de93f-0d0f-41e3-9224-02f3354dad03)
-) | ![Side](![WhatsApp Image 2025-06-18 at 17 26 52_9d064e87](https://github.com/user-attachments/assets/055f3224-15c1-4b7b-9c0f-73b3bbb839d1)
-) | ![Accompaniment](![WhatsApp Image 2025-06-18 at 17 26 52_cc261ce4](https://github.com/user-attachments/assets/ce5e0ae2-156e-48b6-94db-932854a8476c)
-) | ![Summary]![WhatsApp Image 2025-06-18 at 17 26 52_fa464b4e](https://github.com/user-attachments/assets/76060021-d451-4336-97d1-a5caa952f9a9)
-) |
+### Start Order Screen
+[WhatsApp Image 2025-06-18 at 17 26 51_5c12094e](https://github.com/user-attachments/assets/d0843eb5-b7c2-4a36-a797-de354069dcd0)
+
+### Entree
+[WhatsApp Image 2025-06-18 at 17 26 51_96199981](https://github.com/user-attachments/assets/a37de93f-0d0f-41e3-9224-02f3354dad03)
+
+### Side
+[WhatsApp Image 2025-06-18 at 17 26 52_9d064e87](https://github.com/user-attachments/assets/055f3224-15c1-4b7b-9c0f-73b3bbb839d1)
+
+### Accompaniment
+[WhatsApp Image 2025-06-18 at 17 26 52_cc261ce4](https://github.com/user-attachments/assets/ce5e0ae2-156e-48b6-94db-932854a8476c)
+
+### Summary
+[WhatsApp Image 2025-06-18 at 17 26 52_fa464b4e](https://github.com/user-attachments/assets/76060021-d451-4336-97d1-a5caa952f9a9)
+
 
 ---
 
